@@ -6,7 +6,7 @@
 <div class="tab">
 <nav id="site-nav">
 
-<button class="tablinks" onclick="openCity(event, 'Home' >Home</button>
+<button class="tablinks" onclick="openCity(event, 'Home') >Home</button>
 
 <button class="tablinks"><a href="about.md">About</a></button>
 
