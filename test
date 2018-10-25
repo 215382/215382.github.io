@@ -1,0 +1,18 @@
+resize: function () {
+if (window.getComputedStyle(navToggle, null).getPropertyValue("display") !== "none") {
+isMobile = true;
+setAttributes(navToggle, {"aria-hidden": "false"});
+if (nav.className.match(/(^|\s)closed(\s|$)/)) {// If the navigation is hidden
+setAttributes(nav, {"aria-hidden": "true"});
+nav.style.position = "absolute";
+}
+this._createStyles();
+this._calcHeight();
+} else {
+isMobile = false;
+setAttributes(navToggle, {"aria-hidden": "true"});
+setAttributes(nav, {"aria-hidden": "false"});
+nav.style.position = opts.openPos;
+this._removeStyles();
+}
+}
