@@ -20,6 +20,6 @@ var ADAPT_CONFIG = {
     '1280px to 1600px = 1200.css',
     '1600px to 1920px = 1560.css',
     '1940px to 2540px = 1920.css',
-    '2540px           = 2520.css'
+    '2540px           = 2520.css'......
   ]
 };
