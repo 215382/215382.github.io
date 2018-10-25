@@ -2,7 +2,7 @@
 <head> 
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+
 <div class="tab">
 <nav id="site-nav">
 <ul>
@@ -10,6 +10,5 @@
 <li><a href="about.md">About</a></li>
 </ul>
 </nav>
-  </body>
-  </div>
+ </div>
 
