@@ -7,7 +7,7 @@
 <nav id="site-nav">
 <ul>
 <button class="tablinks" ><a href="home.md">Home</a></button>
-<li><a href="about.md">About</a></li>
+<button class="tablinks"><a href="about.md">About</a></button>
 </ul>
 </nav>
  </div>
