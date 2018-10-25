@@ -1,1 +1,5 @@
-title
+<h1>Responsive Web</h1>
+<h4>is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):</h4>
+
+
+
